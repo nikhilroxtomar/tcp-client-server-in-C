@@ -8,7 +8,7 @@
 
 #define PORT 4444
 
-void main(){
+int main(){
 	
 	int clientSocket;
 	struct sockaddr_in serverAddr;
